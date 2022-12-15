@@ -8,13 +8,10 @@ public class Main {
         Book book1 = new Book("War and Peace", author1, 1899);
 
         book.setPublishingYear(1955);
-        //System.out.println(author.toString());
-
-        //System.out.println(book.toString());
-
-       // System.out.println(author1.toString());
-        //System.out.println(book1.toString());
-
+        System.out.println(author.toString());
+        System.out.println(book.toString());
+        System.out.println(author1.toString());
+        System.out.println(book1.toString());
 
     }
 }

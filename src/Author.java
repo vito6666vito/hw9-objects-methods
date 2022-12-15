@@ -32,7 +32,7 @@ public class Author {
 
     @Override
     public String toString() {
-        return "authorName='" + authorName + '\'' +
-                ", authorSurname='" + authorSurname + '\'';
+        return "authorName-'" + authorName + '\'' +
+                ", authorSurname-'" + authorSurname + '\'';
     }
 }
